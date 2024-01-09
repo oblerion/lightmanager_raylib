@@ -4,7 +4,7 @@ lightmanager for raylib
 use edited rlight.h from shader raylib example<br>
 use shader lighting from shader raylib example
 
-## example 
+## Example 
 ```cpp
 #include "raylib.h"
 #include "lightmanager.h"
